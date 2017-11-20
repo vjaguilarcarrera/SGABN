@@ -12,6 +12,7 @@ namespace SGABN.Controllers
         {
             return View();
         }
+        //Esto es prueba
 
         public ActionResult About()
         {
